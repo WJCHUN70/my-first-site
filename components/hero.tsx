@@ -40,7 +40,7 @@ export function Hero() {
     name: "천우주",
     title: "단부건 35대 원우회 원우회장입니다.",
     description: "프롭테크 수업을 통해 나 자신을 한단계 업데이트 하고 있습니다.",
-    profileImage: "/uploads/hero-profile-1763087581679.jpg",
+    profileImage: "/uploads/hero-profile-1763091097018.jpg",
     backgroundImage: "",
     backgroundVideo: "",
     backgroundOpacity: 0.1,

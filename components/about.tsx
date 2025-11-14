@@ -99,12 +99,12 @@ export function About() {
     title: "소개",
     subtitle: "당신의 전문성과 열정을 소개해주세요.",
     background: {"image":"","video":"","color":"","opacity":0.1},
-    experienceCards: [{"icon":"briefcase","title":"회사명","period":"2020 - 현재","description":"직무 및 역할"},{"icon":"graduation","title":"학교명","period":"2024 - 현재","description":"전공 및 학위"},{"icon":"award","title":"자격증/수상","period":"건설업,부동산업, 일반음식점영업, 카페,외식업, 무인사진관","description":"설명을 입력하세요"}],
+    experienceCards: [{"icon":"briefcase","title":"우주디자인컴퍼니(주)","period":"현재","description":"대표이사"},{"icon":"graduation","title":"학교명","period":"2024 - 현재","description":"도시 및 부동산개발"},{"icon":"award","title":"자격증/수상","period":"건설업,부동산업, 일반음식점영업, 카페,외식업, 무인사진관","description":"설명을 입력하세요"}],
     skills: [{"icon":"code","title":"건설업, 부동산업","description":"주거지, 상업용 건물, 공공시설 등 건물의 설계, 시공, 유지보수"},{"icon":"database","title":"카페, 외식업","description":"사람들이 음식을 먹거나 음료를 마시며 시간을 보내는 장소를 제공하는 산업으로, 주로 카페, 레스토랑, 패스트푸드점 등의 형태로 운영"},{"icon":"palette","title":"일반음식점 영업","description":"다양한 음식을 제공하는 업종으로, 주로 한식, 양식, 중식, 일식 등 다양한 음식을 손님에게 제공하는 업소"}],
     storyTitle: "나의 이야기",
-    story: ["단국대학교 부동산건설대학원 35기, 도시 및 부동산 개발학과 입학","2025년 제35대 원우회 원우회장","단부건에서 배운 학문을 현장에 접목시켜 무한한 발전을 위해 노력하겠습니다."],
+    story: ["단국대학교 부동산건설대학원 35기, 도시 및 부동산 개발학과 입학","2025년 제35대 원우회 원우회장","단부건에서 배운 학문을 현장에 접목시켜 무한한 발전을 위해 노력하겠습니다.","2025. 11. 19(수)\n갤러리 카페 'THE SPACE' 오픈"],
     storyImage: "/uploads/about-image-1763087604171.jpg",
-    hobbies: ["동양화","35대 원우회","석사, 박사","✈️ 여행"]
+    hobbies: ["동양화","35대 원우회","석사, 박사","✈️ 여행","🎯단부건 35기"]
   }
   
   const [aboutInfo, setAboutInfo] = useState(defaultInfo)
